@@ -61,12 +61,10 @@
   },
   "lint-staged": {
     "*.js": [
-      "eslint",
-      "git add"
+      "eslint"
     ],
     "*.vue": [
-      "eslint",
-      "git add"
+      "eslint"
     ]
   },
   "browserslist": [
